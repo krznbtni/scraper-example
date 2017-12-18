@@ -59,4 +59,4 @@ app.get('/all-news', (req, res) => {
   );
 });
 
-app.listen(3000, () => console.log('UP AND RUNNING ON PORT 3000'));
+app.listen(4999, () => console.log('UP AND RUNNING ON PORT 4999'));
